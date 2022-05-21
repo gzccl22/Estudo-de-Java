@@ -1,2 +1,2 @@
 # Estudo-de-Java-
-Meus estudos em Java
+Meus estudos de Java
